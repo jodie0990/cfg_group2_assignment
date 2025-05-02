@@ -1,5 +1,3 @@
-# cfg_group2_assignment
-
 # How Has Social Media Impacted Teenagers?
 
 In this project, we examine the effect of social media on teenage mental health. Using data from multiple datasets, we analyze whether social media usage impacts mental health and whether that impact is related to specific platforms, usage time, gender, or other factors.
